@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/hashicorp/terraform/plugin"
-	"github.com/hashicorp/terraform/terraform"
+	"github.com/hashicorp/terraform/plugin v0.11.3"
+	"github.com/hashicorp/terraform/terraform v0.11.3"
 )
 
 func main() {
